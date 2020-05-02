@@ -7,9 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       <Navbar />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+          <h1>(Search for employee by Name, Phone Number or Email)</h1>
       </header>
     </div>
   );
