@@ -13,3 +13,10 @@
   width: 100%;
   margin-bottom: .5rem;
 }
+
+/* Employee card*/
+.empcard {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

@@ -1,10 +1,10 @@
 import React from 'react';
 
-const Search = () => {
+const Search = ({userinput, handler}) => {
   return (
       <nav className='searchbar'>
           <h1>
-               (Search area)
+               <input name="userinput" onChange={handler} value={userinput} />
           </h1>
       </nav>
   );

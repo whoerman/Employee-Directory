@@ -13,7 +13,7 @@ const Navbar = ({title}) => {
 }
 
 Navbar.defaultProps = {
-    title: "Employee Directory",
+    title: "Employee Directory (GitHub Profiles)",
 };
 
 Navbar.propTypes = {
