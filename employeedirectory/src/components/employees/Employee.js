@@ -17,9 +17,6 @@ class Employees extends Component {
             </div>
         );
     }
-
-
-
 }
 
 export default Employees
